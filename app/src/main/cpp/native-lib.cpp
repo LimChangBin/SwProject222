@@ -24,4 +24,5 @@ Java_com_example_engineering_we_swproject_MainActivity_stringFromJNI(
 }
 #elif (SR_WIN)
 #include <iostream>
+//°ûµ¿ÈÆÀÔ´Ï´Ù.
 #endif
