@@ -23,5 +23,5 @@ Java_com_example_engineering_we_swproject_MainActivity_stringFromJNI(
     return env->NewStringUTF(hello.c_str());
 }
 #elif (SR_WIN)
-
+#include <iostream>
 #endif
